@@ -28,3 +28,7 @@ Current Maintainer: @mofosyne
 Got a suggestion, or push you want to do?
 
 https://github.com/mofosyne/samepins.github.io
+
+### Where is the website source?
+
+https://github.com/mofosyne/samepins.github.io/tree/gh-pages
