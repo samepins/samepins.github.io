@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "header pins"
-category: doc
+category: ref
 date: 2015-02-04 03:50:43
 ---
 
@@ -12,3 +12,4 @@ date: 2015-02-04 03:50:43
 	[1][2][3][4][5][6][7][8]
 
 ```
+
