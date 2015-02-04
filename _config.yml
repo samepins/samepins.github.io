@@ -34,7 +34,7 @@ baseurl: ''
 permalink: none
 
 # Syntax highlighting (pygments is the only highlighter supported by github pages as of 2015 Feb)
-highlighter: pygments 
+highlighter: false
 
 # Since these are pages, it doesn't really matter
 future: true
