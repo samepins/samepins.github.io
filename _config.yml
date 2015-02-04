@@ -34,7 +34,7 @@ baseurl: ''
 permalink: none
 
 # Syntax highlighting
-highlighter: false
+# highlighter: pygments
 
 # Since these are pages, it doesn't really matter
 future: true
