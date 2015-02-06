@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'SamePins'
-subtitle: 'Promoting Consistancy in Pinouts'
+subtitle: 'Promoting Consistency in Pinouts'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
