@@ -3,6 +3,9 @@ layout: default
 title: "Jekyll Docs Template"
 ---
 
+## Issues Or Suggestions?
+
+Post your message to the issue tracker in [our issue tracking page in github]( https://github.com/samepins/samepins.github.io/issues )
 
 ### What is SamePins?
 
