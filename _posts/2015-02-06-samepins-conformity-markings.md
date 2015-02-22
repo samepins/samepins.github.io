@@ -3,6 +3,7 @@ layout: page
 title: "SamePins Conformity Markings (draft)"
 category: doc
 date: 2015-02-06 18:13:27
+disqus: 1
 ---
 
 # PCB markings

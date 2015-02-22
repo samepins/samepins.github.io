@@ -3,6 +3,7 @@ layout: page
 title: "header pins"
 category: ref
 date: 2015-02-04 03:50:43
+disqus: 1
 ---
 
 ## Compact Form

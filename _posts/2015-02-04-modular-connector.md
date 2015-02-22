@@ -3,6 +3,7 @@ layout: page
 title: "modular connector (Used for ethernet/telephone)"
 category: ref
 date: 2015-02-04 02:38:29
+disqus: 1
 ---
 
 http://en.wikipedia.org/wiki/Modular_connector#6P2C

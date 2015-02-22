@@ -3,6 +3,7 @@ layout: page
 title: "audio ports"
 category: ref
 date: 2015-02-04 02:38:29
+disqus: 1
 ---
 
 
