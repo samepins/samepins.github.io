@@ -91,3 +91,8 @@ http://en.wikipedia.org/wiki/Modular_connector#8P8C
 	http://en.wikipedia.org/wiki/TIA/EIA-568#Wiring
 	
 ```
+
+### note:
+
+> [Don't forget the pinout of cat5 with an RJ45 connector - the pairs are not wired to the pins in order. The pairing is AABCCBDD --n1ist](http://www.avrfreaks.net/forum/general-ttl-and-power-over-cat5)
+
