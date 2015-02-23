@@ -33,6 +33,9 @@ In [the product page for Oregon electronics](http://www.oregon-electronics.com/x
 	|                   |
 	|_ [] [] 2 1 [] [] _|
 	
+	If Twisted Pairs:
+		pair1: pin 1&2
+	
 	http://en.wikipedia.org/wiki/Registered_jack#Registered_jack_types
 	
 ```
@@ -48,6 +51,10 @@ In [the product page for Oregon electronics](http://www.oregon-electronics.com/x
 	|                   |
 	|                   |
 	|_  [] 4 3 2 1 []  _|
+	
+	If Twisted Pairs:
+		pair1: pin 3&2, 
+		pair2: pin 1&4 
 		
 	http://en.wikipedia.org/wiki/Registered_jack#Registered_jack_types
 	
@@ -65,6 +72,11 @@ In [the product page for Oregon electronics](http://www.oregon-electronics.com/x
 	|                   |
 	|_   6 5 4 3 2 1   _|
 		
+	If Twisted Pairs:
+		pair1: pin 3&4, 
+		pair2: pin 2&5,
+		pair3: pin 1&6
+	
 	http://en.wikipedia.org/wiki/Registered_jack#Registered_jack_types
 	
 ```
@@ -90,6 +102,12 @@ http://en.wikipedia.org/wiki/Modular_connector#8P8C
 	|_ 8 7 6 5 4 3 2 1 _|
 	
 	http://en.wikipedia.org/wiki/TIA/EIA-568#Wiring
+	
+	Cat5 Twisted Pairs:
+		pair1: 5&4
+		pair2: 6&3
+		pair3: 8&7
+		pair4: 2&1
 	
 ```
 
